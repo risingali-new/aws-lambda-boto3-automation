@@ -55,6 +55,7 @@ CloudWatch Logs
 An S3 bucket was created to store files for cleanup testing.
 
 ### Screenshot
+<img width="940" height="326" alt="image" src="https://github.com/user-attachments/assets/3dbdf041-0a38-42cc-af37-23958eeba094" />
 
 
 
@@ -66,7 +67,8 @@ Multiple files were uploaded to the S3 bucket for testing the cleanup process.
 
 ### Screenshot
 
-![Uploaded Files](screenshots/s3-files-uploaded.png)
+<img width="940" height="412" alt="image" src="https://github.com/user-attachments/assets/084fc856-2440-42c8-bbf4-c625cf6dc842" />
+
 
 
 ---
@@ -86,7 +88,8 @@ Lambda-S3-Cleanup-Role
 
 ### Screenshot
 
-![IAM Role](screenshots/iam-role.png)
+<img width="940" height="507" alt="image" src="https://github.com/user-attachments/assets/aa8d39bd-d249-4f63-b59e-6da0dc1e68dc" />
+
 
 ---
 
@@ -102,7 +105,8 @@ Lambda Configuration:
 
 ### Screenshot
 
-![Lambda Function](screenshots/lambda-function.png)
+<img width="940" height="593" alt="image" src="https://github.com/user-attachments/assets/9db5bc21-b0f4-4d3d-add8-1317a03821bd" />
+
 
 ---
 
@@ -116,7 +120,8 @@ Environment variable used:
 
 ### Screenshot
 
-![Environment Variable](screenshots/environment-variable.png)
+<img width="2792" height="1279" alt="image" src="https://github.com/user-attachments/assets/53c2e2a2-b57c-4f03-8a9c-9a235bb358ec" />
+
 
 ---
 
@@ -175,7 +180,8 @@ Expected Result:
 
 ### Screenshot
 
-![Lambda Test Success](screenshots/lambda-success.png)
+<img width="940" height="593" alt="image" src="https://github.com/user-attachments/assets/b9b35f88-264e-4810-9f24-752580efeda2" />
+
 
 ---
 
@@ -185,7 +191,8 @@ The Lambda function successfully deleted the identified files from the S3 bucket
 
 ### Screenshot
 
-![Bucket After Cleanup](screenshots/bucket-after-cleanup.png)
+<img width="940" height="282" alt="image" src="https://github.com/user-attachments/assets/70ea1d87-dd27-47b9-a282-0c882995f923" />
+
 
 ---
 
@@ -195,7 +202,8 @@ CloudWatch logs were reviewed to verify successful execution.
 
 ### Screenshot
 
-![CloudWatch Logs](screenshots/cloudwatch-logs.png)
+<img width="940" height="270" alt="image" src="https://github.com/user-attachments/assets/41a4d863-5b12-4cb8-943f-f6b4f5d3142d" />
+
 
 ---
 
