@@ -1,3 +1,8 @@
+# AWS Serverless and Cloud Automation
+
+## Repository Structure
+
+```text
 AWS-Serverless-and-Cloud-Automation
 │
 ├── Assignment-1-EC2-Automation
@@ -17,3 +22,4 @@ AWS-Serverless-and-Cloud-Automation
 │   └── README.md
 │
 └── screenshots
+```
