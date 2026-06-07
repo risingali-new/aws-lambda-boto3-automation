@@ -1,7 +1,3 @@
-AWS: Serverless Architecture and Cloud Automation
-
-Refer the specifi project as per the below 
-
 AWS-Serverless-and-Cloud-Automation
 │
 ├── Assignment-1-EC2-Automation
