@@ -1,6 +1,6 @@
 # AWS Serverless and Cloud Automation
 
-## Repository Structure
+## Follow the below Repository Structure for all the 4 projects
 
 ```text
 AWS-Serverless-and-Cloud-Automation
